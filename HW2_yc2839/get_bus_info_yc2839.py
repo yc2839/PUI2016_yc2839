@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
 from __future__ import print_function
 import json
 import urllib2 
@@ -20,9 +15,6 @@ data = response.read().decode("utf-8")
 dataDict = json.loads(data)
 
 
-# In[14]:
-
-
 busdata = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 max_ = len(busdata)
 
@@ -35,11 +27,5 @@ for i in range(0, max_):
     latitude = locatinfro.get('Latitude', 'N/A')  
     longitude = locatinfro.get('Longitude', 'N/A')
     StopPointName = locatinfro_1.get('StopPointName', 'N/A')
-    PresentableName = locatinfro_2.get('PresentableName', 'N/A')
-    fout.write(('%s, %s, %s, %s') %(latitude, longitude, StopPointName, PresentableName))
-
-
-# In[ ]:
-
-
-
+    PresentableDistance = locatinfro_2.get('PresentableDistance', 'N/A')
+    fout.write(('%s, %s, %s, %s') %(latitude, longitude, StopPointName, PresentableDistance))
