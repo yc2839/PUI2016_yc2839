@@ -4,6 +4,8 @@ import urllib2
 import os
 import sys
 
+# Above code from NYCweatherAPI.py by Federica
+
 key = sys.argv[1]
 busline = sys.argv[2]
 
@@ -13,7 +15,7 @@ response = urllib2.urlopen(url)
 data = response.read().decode("utf-8")
 
 dataDict = json.loads(data)
-
+# Above code came from NYCweatherAPI.py by Federica
 
 busdata = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 max_ = len(busdata)
