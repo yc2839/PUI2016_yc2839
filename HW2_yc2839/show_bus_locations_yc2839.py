@@ -16,6 +16,7 @@ data = response.read().decode("utf-8")
 
 dataDict = json.loads(data)
 
+#Above code from Federica
 
 busdata = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 max_ = len(busdata)
