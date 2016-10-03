@@ -1,0 +1,5 @@
+| Statistical   | Number of            | Type of              | Number of          | Type of            |
+| Analyses      | Independent variables| Independent variables| Dependent variables| Dependent variables|
+| ------------- |:--------------------:|:--------------------:|:------------------:|-------------------:|
+| col 3 is      | right-aligned        | $1600                |                    |                    |
+| col 2 is      | centered             |   $12                |                    |                    |
