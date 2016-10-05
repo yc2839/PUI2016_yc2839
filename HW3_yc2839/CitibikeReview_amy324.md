@@ -3,7 +3,7 @@ Assignment 1: Review your classmate's Citibike project proposal
 Author: Adriano Yoshino - amy324@nyu.edu
 
 a. verify that their Null and alternative hypotheses are formulated correctly
-- I was confused about yc2839 formulation, and the null hypothesis do not prove the idea if rejected. 
+- I was confused about yc2839 formulation, and apparently the null hypothesis do not prove the idea if rejected. 
 - the Idea was stated as: "Was there a differnce of tripduration between the first half and the second half of a month ( e.g. January 2015)?"
 - and the Null Hypothesis: "biking tripdurations in first half of January (2015) was more than the second half."
 - Rejecting the Null Hypothesis do not prove that there is difference, because rejecting it just state that the first half has no longer 
