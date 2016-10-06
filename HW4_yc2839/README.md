@@ -11,7 +11,7 @@ Assignment 2
 
 Assignment 3 
 
-I tried to reproduce the figure of the employ project, but I was stopped by the 'count_nonzero' did not defined warming. Luckily, Federica helped to solve the problem by changing some of the codes. Then, it worked! I just could not figure out the chi-squared test in terms of python scripts, so I calculated it by a calculator.
+I tried to reproduce the figure of the employ project, but I was stopped by the 'count_nonzero' did not defined warming (oh, this was in assignment 4). Luckily, Federica helped to solve the problem by changing some of the codes. Then, it worked! I just could not figure out the chi-squared test in terms of python scripts, so I calculated it by a calculator.
 
 Assignment 4
 
