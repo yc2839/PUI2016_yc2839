@@ -1,6 +1,6 @@
 
 | Statistical Analyses | Number of  Independent Variable | Type of Independent Variable | Number of Dependent Variable | Type of Dependent Variable | Number of Control Variable | Type of Control Variable | Question answered by the Statistic | H0 | p vaule|Link to Paper |
-|:-------------: |:---------:|:-----------:|:---------:|:-----------:|:----------:|:--------:|:------------------:|:-------:|:----------:|
+|:-------------:|:---------:|:-----------:|:---------:|:-----------:|:----------:|:--------:|:------------------:|:-------:|:----------:|:-------:|
 |ANCOVA (analysis of covariance)| 2+, species | categorical| 2+, gene expression  | categorical |1, age| continuous      | Is ASD associated with an excess of certain human-specific gene expressions during the cortical development?| The proportion of developmental gene expression profiles specific to humans is equal or less the proportion of expression of non-human primates (in the control group)|P < 0.01  | Disruption of an Evolutionarily Novel Synaptic Expression Pattern in Autism| 
 
 
