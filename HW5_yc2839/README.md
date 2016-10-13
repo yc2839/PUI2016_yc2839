@@ -1,3 +1,11 @@
+Assignment 1
+
+I learned to further play with the citibike data and made them even meaningful by plotting some figures and comparing them with two typical distributions(i.e. normal and poisson). I also used 2 kind of statistics tests(KS and AD)to determine the data distribution. Although the result could be rather random, the point was I got to know how to deal with the data and how to approach to the outcomes as expected.
+
+Assignment 2
+
+I learned how to sort data in the target dictionaries, then to check the key and value in each dictionary. For this assignment we practiced on plotting scatter matrix and making linear regression for predictions.The data were visualized in the figure ever greater than I thought. I spend much time on working with the kernel density estimation matrix and evaluating the linear regressions.
+
 Assignment 3
 
 ###1. Null Hypothesis
