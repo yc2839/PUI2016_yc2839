@@ -1,1 +1,2 @@
-
+This homework deals with finding “outliers”, “trends”, and “periodicity” in the MTA turnstile data. For the first time, we are looking at a “cube” dataset ( 3-dim) that is different from those previous
+ones. For task 1, determine the outliers by using a measurement of 3 sigmas away from the mean. Task 2, applying the polling_mean() method to smooth the plot and figuring out the trends by the ratio of flux. Task 3, peaks in the figures are modified after applying the Fourier transformation. 
