@@ -7,3 +7,6 @@ This is a group work, the figure and test was not the same as I did individually
 did not get enough time to improve and present it in this homework though.
 Our article pubulished on authorea
 [Exploring the Relationship between the Hour of Day and CitiBike Ridership](https://www.authorea.com/users/106379/articles/133192/_show_article)
+
+# FBB
+good, see comments in the authorea article
